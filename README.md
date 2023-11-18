@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Ammara20/Ammara20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python and machine learning 
 - 🌱 I’m currently learning machine leaning
 - 👯 I’m looking to collaborate on python and machine leaning projects
@@ -12,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about testing and django
 - 📫 How to reach me: linkedin
 - ⚡ Fun fact: I always take diffcult path to walk
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ammara-samman23) 
